@@ -1,0 +1,39 @@
+.title{
+    background-color: rgba(44, 62, 80, 1);
+    height: 90px;
+    
+}
+.start{
+    background-color: rgba(26, 188, 156, 1);
+    height: 590px;
+    
+}
+.portfolio{
+    
+    height: 850px;
+}
+.about{
+    height: 500px;
+    background-color: rgba(26, 188, 156, 1);
+}
+.contact{
+    background-color: white;
+    height: 670px;
+}
+.location{
+    background-color:rgba(58, 84, 109, 1) ;
+    height: 230px;
+}
+.copyright{
+    background-color:rgba(44, 62, 80, 1) ;
+    height: 100px;
+}
+hr{
+    border: 10px solid black;
+    width: 150px;
+    height: 4px !important;
+    opacity: 1 !important;
+    
+    
+    
+}
