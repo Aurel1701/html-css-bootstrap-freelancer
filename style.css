@@ -5,7 +5,7 @@
 }
 .start{
     background-color: rgba(26, 188, 156, 1);
-    height: 590px;
+    height: 490px;
     
 }
 .portfolio{
@@ -29,7 +29,7 @@
     height: 100px;
 }
 hr{
-    border: 10px solid black;
+    
     width: 150px;
     height: 4px !important;
     opacity: 1 !important;
