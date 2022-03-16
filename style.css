@@ -1,15 +1,17 @@
 .title{
-    background-color: rgba(44, 62, 80, 1);
     height: 90px;
-    
 }
+header{
+    background-color: rgba(44, 62, 80, 1);
+
+}
+
 .start{
     background-color: rgba(26, 188, 156, 1);
     height: 490px;
     
 }
 .portfolio{
-    
     height: 650px;
 }
 .about{
@@ -30,7 +32,7 @@
 }
 hr{
     
-    width: 150px;
+    width: 120px;
     height: 4px !important;
     opacity: 1 !important;
     
