@@ -39,3 +39,9 @@ hr{
     opacity: 1 !important;
 
 }
+input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
