@@ -44,4 +44,9 @@ input{
     border-left: none;
      border-right: none;
 }
+.name-input{
+    border-top: none;
+  border-left: none;
+  border-right: none;
+}
 
