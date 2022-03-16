@@ -22,7 +22,7 @@ p{
  max-width: 500px;
 }
 .contact{
-    background-color: white;
+    
     height: 670px;
 }
 .location{
@@ -31,7 +31,7 @@ p{
 }
 .copyright{
     background-color:rgba(44, 62, 80, 1) ;
-    height: 100px;
+    height: 80px;
 }
 hr{
     width: 120px;
