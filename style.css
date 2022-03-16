@@ -3,24 +3,26 @@
 }
 header{
     background-color: rgba(44, 62, 80, 1);
-
 }
 
 .start{
     background-color: rgba(26, 188, 156, 1);
-    height: 490px;
-    
-}
+    height: 490px; 
+} 
+
 .portfolio{
     height: 650px;
 }
+
 .about{
     height: 400px;
     background-color: rgba(26, 188, 156, 1);
 }
+
 p{
  max-width: 500px;
 }
+
 .contact{
     
     height: 670px;
@@ -37,16 +39,40 @@ hr{
     width: 120px;
     height: 4px !important;
     opacity: 1 !important;
-
 }
-input{
+
+.form-control-lg{
     border-top: none;
     border-left: none;
-     border-right: none;
+    border-right: none;
+    width: 90%;
+    margin-left: 50px;
 }
-.name-input{
-    border-top: none;
-  border-left: none;
-  border-right: none;
+.message{
+    border: none;
+    margin-top: 30px;
+}
+.last-form{
+    margin-top: 150px;
+}
+.send{
+    background-color: rgba(26, 188, 156, 1);
+    margin-top: 10px;
+    margin-left: 60px;
+}
+.fa-facebook{
+    font-size: 50px;
+}
+.fa-google-plus{
+    font-size: 50px;
+}
+.fa-twitter-square{
+    font-size: 50px;
+}
+.fa-linkedin-in{
+    font-size: 50px;
+}
+i{
+    padding: 5px;
 }
 
