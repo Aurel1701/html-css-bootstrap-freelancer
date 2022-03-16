@@ -15,8 +15,11 @@ header{
     height: 650px;
 }
 .about{
-    height: 500px;
+    height: 400px;
     background-color: rgba(26, 188, 156, 1);
+}
+p{
+ max-width: 500px;
 }
 .contact{
     background-color: white;
@@ -31,11 +34,8 @@ header{
     height: 100px;
 }
 hr{
-    
     width: 120px;
     height: 4px !important;
     opacity: 1 !important;
-    
-    
-    
+
 }
